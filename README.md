@@ -32,3 +32,10 @@ POR FAVOR!!!!
 
 ## Desafio gemelos
 Encontra el par de gemelos
+---------------------------------------------------
+## 🌈 COLORES
+
+Dorado: #C7B067
+Celeste: #009EFF
+Rosa: #FF5F9F
+Verde: #00D399
